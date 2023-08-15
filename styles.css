@@ -12,7 +12,7 @@ body {
     background-color: #F1F0E8;
     border-radius: 8px;
     padding: 20px;
-    box-shadow: 4px 8px 0 6px #666, 10px 10px 10px #000;
+    box-shadow: 6px 8px 0 4px #666, 10px 10px 10px #000;
   }
   
   .result {
