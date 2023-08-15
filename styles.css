@@ -5,7 +5,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-image: linear-gradient(to bottom #96B6C5, F1F0E8);
+    background-image: linear-gradient(to bottom #96B6C5, #F1F0E8);
   }
   
   .container {
