@@ -6,6 +6,8 @@
 A password generator coded in Html Css e JavaScript. // Um gerador de  senhas feito em Html Css e JavaScript.
 
 ## 🔨 Funcionalidades // Functionalities
+![Gerador de senha](Gerador.png)
+
 - `Functionalities 1` : Generate passwords of up to 50 characters // Gerador de senha de até 50 caractéres.
 
 - `Functionalities 2` : Totally random characters. // Caractéres totalmente aleatórios.
