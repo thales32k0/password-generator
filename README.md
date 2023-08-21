@@ -15,7 +15,7 @@ A password generator coded in Html Css e JavaScript. // Um gerador de  senhas fe
 ## ⚒️ Como usar? // How to use? ⚒️
 
 - `Acess link // Acesse o link`: https://password-generator-six-tan.vercel.app/
-- `Very intuitive, just select the number of characters and generate // Muito intuitivo, basta selecionar a quantidade de caractéres e gerar.
+- `Very intuitive, just select the number of characters and generate // Muito intuitivo, basta selecionar a quantidade de caractéres e gerar.`
 
 
 # Developer
