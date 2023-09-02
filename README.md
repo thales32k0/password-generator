@@ -1,9 +1,14 @@
 # Password-Generator
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Under%20Development-orange" alt="Static Badge">
 </p>
 
 A password generator coded in Html Css e JavaScript. // Um gerador de  senhas feito em Html Css e JavaScript.
+
+---
 
 ## 🔨 Funcionalidades // Functionalities
 ![Gerador de senha](Gerador.png)
